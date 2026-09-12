@@ -1,0 +1,6 @@
+configuration,waiting_weight,response_weight,turnaround_weight,context_switch_weight,ml_accuracy,average_regret,median_regret,worst_regret,zero_regret_percent,within_5_percent,within_10_percent
+Baseline,0.4,0.3,0.2,0.1,0.65,3.552098435828726,0.0,51.70278637770897,65.0,85.0,95.0
+Waiting-heavy,0.6,0.2,0.15,0.05,0.65,3.49152254435558,0.0,43.058491895701216,90.0,90.0,90.0
+Response-heavy,0.2,0.5,0.2,0.1,0.4,21.021991930040247,7.487153090660046,102.47933884297515,40.0,45.0,55.00000000000001
+Turnaround-heavy,0.2,0.2,0.5,0.1,0.65,1.8718802905109264,0.0,27.438231469440822,80.0,95.0,95.0
+Context-switch-heavy,0.25,0.2,0.15,0.4,0.65,2.076328203541876,0.0,41.52656407083752,95.0,95.0,95.0

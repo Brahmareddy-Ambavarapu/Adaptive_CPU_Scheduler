@@ -1,0 +1,20 @@
+# Build artifacts
+*.exe
+build/
+bin/
+
+# Temporary ML files
+ml_inference_temp_*.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Raw data / Huge models if necessary
+# Note: best_model.joblib and scaler.joblib are currently kept in the repo
+# as they are small and needed for runtime inference.

@@ -1,0 +1,2 @@
+experiment,eval_seed,num_workloads,ml_accuracy,ml_weighted_precision,ml_weighted_recall,ml_weighted_f1,ml_average_regret,ml_median_regret,ml_worst_regret,ml_zero_regret_percent,ml_within_5_percent,ml_within_10_percent,oracle_average_score,ml_average_score,rule_based_average_regret,rule_based_median_regret,rule_based_worst_regret
+generalization,2026,20,0.85,0.8236842105263158,0.85,0.8064285714285713,8.46332,0.0,146.756,90.0,90.0,90.0,0.57675075,0.61325135,36.661300499999996,23.3836,146.756

@@ -1,0 +1,67 @@
+{
+    "selected_model": "Decision Tree",
+    "random_state": 42,
+    "feature_names": [
+        "num_processes",
+        "average_burst",
+        "burst_std",
+        "min_burst",
+        "max_burst",
+        "arrival_rate",
+        "average_priority",
+        "priority_std",
+        "short_job_ratio",
+        "long_job_ratio"
+    ],
+    "label_mapping": {
+        "FCFS": 0,
+        "SJF": 1,
+        "RR": 2,
+        "Priority": 3
+    },
+    "test_size": 0.2,
+    "selection_criterion": "weighted_f1 -> accuracy",
+    "training_size": 8,
+    "testing_size": 2,
+    "model_parameters": {
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": null,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 42,
+        "splitter": "best"
+    },
+    "all_model_metrics": [
+        {
+            "model": "Logistic Regression",
+            "accuracy": 0.5,
+            "weighted_precision": 0.5,
+            "weighted_recall": 0.5,
+            "weighted_f1": 0.5,
+            "macro_f1": 0.3333333333333333
+        },
+        {
+            "model": "Decision Tree",
+            "accuracy": 1.0,
+            "weighted_precision": 1.0,
+            "weighted_recall": 1.0,
+            "weighted_f1": 1.0,
+            "macro_f1": 1.0
+        },
+        {
+            "model": "Random Forest",
+            "accuracy": 1.0,
+            "weighted_precision": 1.0,
+            "weighted_recall": 1.0,
+            "weighted_f1": 1.0,
+            "macro_f1": 1.0
+        }
+    ]
+}

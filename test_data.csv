@@ -1,0 +1,6 @@
+workload_id,num_processes,average_burst,burst_std,min_burst,max_burst,arrival_rate,average_priority,priority_std,short_job_ratio,long_job_ratio,target_scheduler
+1,10,2.9,1.75784,1,5,0.120482,2.3,1.34536,0.5,0.5,FCFS
+2,10,13.1,2.50799,10,16,0.116279,2.9,1.57797,0.5,0.5,SJF
+3,10,10.1,6.17171,3,20,0.172414,2.6,1.28062,0.6,0.4,SJF
+4,10,61.6,21.7908,24,94,0.116279,3.4,1.62481,0.6,0.4,SJF
+5,10,12.6,5.14198,2,19,0.909091,2.8,1.4,0.4,0.6,SJF

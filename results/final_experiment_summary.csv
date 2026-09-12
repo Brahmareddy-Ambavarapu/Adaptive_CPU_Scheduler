@@ -1,0 +1,2 @@
+experiment_name,workload_count,model_name,classification_accuracy,weighted_precision,weighted_recall,weighted_f1,average_regret,median_regret,worst_regret,zero_regret_percent,within_5_percent,within_10_percent,rule_based_average_regret
+Generalization (Unseen Seed 2026),20,RandomForest_Baseline,0.85,0.8236842105263158,0.85,0.8064285714285713,8.46332,0.0,146.756,90.0,90.0,90.0,36.6613005

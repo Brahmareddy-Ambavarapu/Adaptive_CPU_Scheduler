@@ -1,0 +1,3 @@
+sample_index,actual_scheduler,logistic_regression_prediction,logistic_regression_correct,logistic_regression_prob_fcfs,logistic_regression_prob_sjf,logistic_regression_prob_rr,logistic_regression_prob_priority,decision_tree_prediction,decision_tree_correct,decision_tree_prob_fcfs,decision_tree_prob_sjf,decision_tree_prob_rr,decision_tree_prob_priority,random_forest_prediction,random_forest_correct,random_forest_prob_fcfs,random_forest_prob_sjf,random_forest_prob_rr,random_forest_prob_priority
+8,FCFS,RR,False,0.3191531132361816,0.32196803395895723,0.3588788528048611,0.0,FCFS,True,1.0,0.0,0.0,0.0,FCFS,True,0.56,0.365,0.075,0.0
+1,SJF,SJF,True,0.1443004931095847,0.7734153053645277,0.08228420152588767,0.0,SJF,True,0.0,1.0,0.0,0.0,SJF,True,0.085,0.835,0.08,0.0

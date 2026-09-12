@@ -1,0 +1,3 @@
+scheduler,average_score,median_score,average_waiting,average_response,average_turnaround,average_context_switches,average_regret,median_regret,worst_regret,zero_regret_percent,within_5_percent,within_10_percent
+Rule-Based Adaptive,0.7457,0.741533,21.7295,21.7295,32.1766,10.3,23.8642,14.6161,85.3784,10,30,40
+ML-Based Adaptive,0.64107,0.642422,16.0077,15.8177,26.4549,10.8,3.55212,0.0,51.7028,65,85,95

@@ -1,0 +1,13 @@
+split,scheduler,count,percentage
+Full,FCFS,2,20.0
+Full,SJF,7,70.0
+Full,RR,1,10.0
+Full,Priority,0,0.0
+Train,FCFS,1,12.5
+Train,SJF,6,75.0
+Train,RR,1,12.5
+Train,Priority,0,0.0
+Test,FCFS,1,50.0
+Test,SJF,1,50.0
+Test,RR,0,0.0
+Test,Priority,0,0.0

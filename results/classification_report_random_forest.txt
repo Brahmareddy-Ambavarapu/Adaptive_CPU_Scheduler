@@ -1,0 +1,12 @@
+Classification Report for Random Forest
+
+              precision    recall  f1-score   support
+
+        FCFS       1.00      1.00      1.00         1
+         SJF       1.00      1.00      1.00         1
+          RR       0.00      0.00      0.00         0
+    Priority       0.00      0.00      0.00         0
+
+    accuracy                           1.00         2
+   macro avg       0.50      0.50      0.50         2
+weighted avg       1.00      1.00      1.00         2

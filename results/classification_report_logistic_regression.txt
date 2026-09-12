@@ -1,0 +1,12 @@
+Classification Report for Logistic Regression
+
+              precision    recall  f1-score   support
+
+        FCFS       0.00      0.00      0.00         1
+         SJF       1.00      1.00      1.00         1
+          RR       0.00      0.00      0.00         0
+    Priority       0.00      0.00      0.00         0
+
+    accuracy                           0.50         2
+   macro avg       0.25      0.25      0.25         2
+weighted avg       0.50      0.50      0.50         2

@@ -1,0 +1,12 @@
+experiment,removed_feature,remaining_features,accuracy,weighted_precision,weighted_recall,weighted_f1,macro_f1,average_regret,median_regret,worst_regret,zero_regret_percent,within_5_percent,within_10_percent
+ablation,none,10,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,num_processes,9,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,average_burst,9,0.5,0.25,0.5,0.3333333333333333,0.3333333333333333,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,burst_std,9,0.5,0.25,0.5,0.3333333333333333,0.3333333333333333,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,min_burst,9,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,max_burst,9,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,arrival_rate,9,1.0,1.0,1.0,1.0,1.0,4.4668755,0.0,46.1785,85.0,85.0,90.0
+ablation,average_priority,9,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,priority_std,9,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,short_job_ratio,9,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0
+ablation,long_job_ratio,9,1.0,1.0,1.0,1.0,1.0,4.11137,0.0,46.1785,90.0,90.0,90.0

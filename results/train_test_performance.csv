@@ -1,0 +1,4 @@
+model,train_accuracy,test_accuracy,train_weighted_f1,test_weighted_f1
+Logistic Regression,0.75,0.5,0.6428571428571428,0.5
+Decision Tree,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0
