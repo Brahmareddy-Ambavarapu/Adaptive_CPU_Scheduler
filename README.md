@@ -137,8 +137,4 @@ python ml/plot_final_results.py
 - Reinforcement Learning algorithms to dynamically adjust the objective weights mid-execution.
 
 ---
-### Documentation Index
-- [Resume Overview](docs/resume_description.md)
-- [Interview Q&A](docs/interview_questions.md)
-- [Project Status](PROJECT_STATUS.md)
-- [Final Summaries](results/final_summary.md)
+
